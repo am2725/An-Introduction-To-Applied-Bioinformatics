@@ -510,7 +510,7 @@ GAAGCAGCAC
 GAACAGA-AC
 ```
 
-The alignment score that has been reported by our pairwise aligners helps us to balance these different features, and we can adjust the scoring scheme to weight things differently (e.g., so that gaps are penalized more or less than certain substitutions). The problem is that the scores are hard to interpret, particularly when we have only one or a few of them.
+The alignment score that has been reported by our pairwise aligners helps us to balance these different features, and we can adjust the scoring scheme to weigh things differently (e.g., so that gaps are penalized more or less than certain substitutions). The problem is that the scores are hard to interpret, particularly when we have only one or a few of them.
 
 ### False positives, false negatives, p-values, and alpha  <link src="TjqwVY"/>
 
